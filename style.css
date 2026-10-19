@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(204, 255, 255);
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+h1{
+    font-family: Bebas Neue;
+    color: rgb(255, 255, 204);
+    font-size: 3rem;
+    margin: 0;
+}
+
+.header-banner {
+    background-color: rgb(192, 57, 43);
+}
+
+.volleyball-img {
+    width: 180px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.step-card {
+    background-color: rgb(244, 196, 48);
+    border-radius: 4px;
+}
+
+.step-card h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: rgb(192, 57, 43);
+    font-size: 2.2rem;
+    margin-bottom: 10px;
+}
+
+.step-card p {
+    color: rgb(169, 50, 38);
+    font-size: 1.15rem;
+    line-height: 1.3;
+    font-weight: 500;
+}
+
+.footer-text {
+    color: rgb(169, 50, 38);
+    font-size: 1rem;
+    font-weight: 600;
+}
